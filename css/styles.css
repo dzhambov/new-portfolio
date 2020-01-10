@@ -1,0 +1,42 @@
+img {
+  width: 30%; height:30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+}
+
+h2 {
+  color: darkblue;
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.projects {
+  color: darkgreen;
+}
+
+.city {
+  font-style: italic;
+}
+
+body {
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: skyblue;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+div {
+  padding: top;
+  padding: bottom;
+}
