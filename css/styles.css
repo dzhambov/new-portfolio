@@ -33,3 +33,12 @@ body {
 #aboutme p {
   font-size: 18px;
 }
+
+u {
+  font-weight: bold;
+}
+
+.home {
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}
