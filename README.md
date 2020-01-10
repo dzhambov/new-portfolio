@@ -17,7 +17,7 @@
 ## Support and Contact Details
 
 *Please feel free to contact me if you encounter any problems with this webpage at dzhambov@hotmail.com.*
-> *You can also see it visiting the folowing link*
+> *You can also see it visiting the folowing [link](https://github.com/dzhambov/new-portfolio/tree/master).*
 
 ## Technology Used
 
