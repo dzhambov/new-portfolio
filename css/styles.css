@@ -1,0 +1,8 @@
+img {
+  float: right;
+  border: solid 5px;
+  padding: 5px;
+  border-radius: 0 50px 50px 50px;
+  transform: rotate(15deg);
+  margin-top: 50px;
+}
