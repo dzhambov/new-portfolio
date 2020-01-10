@@ -1,4 +1,4 @@
-img {
+.picture1 {
   float: right;
   border: solid 5px;
   padding: 5px;
@@ -45,7 +45,13 @@ u {
   text-align: auto;
 }
 
-#hobbies {
-  font-size: 16px;
-  font-style: italic;
+.etara {
+  float: right;
+  border: solid 5px;
+  padding: 5px;
+}
+
+.sidebar {
+  height: 100px;
+  width: 600px;
 }
