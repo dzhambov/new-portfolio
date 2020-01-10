@@ -49,6 +49,10 @@ u {
   float: right;
   border: solid 5px;
   padding: 5px;
+  border-radius: 0 50px 0 50px;
+  height: 350px;
+  width: 450px;
+  margin-left: 50px;
 }
 
 .sidebar {
