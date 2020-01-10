@@ -17,3 +17,19 @@ img {
   font-size: 16px;
   font-weight: bold;
 }
+
+body {
+  background-color: beige;
+}
+
+.quote {
+  font-style: italic;
+}
+
+.city {
+  color: brown;
+}
+
+#aboutme p {
+  font-size: 18px;
+}
