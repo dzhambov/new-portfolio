@@ -4,7 +4,7 @@
   padding: 5px;
   border-radius: 0 50px 50px 50px;
   transform: rotate(15deg);
-  margin: 150px 200px 0 0;
+  margin: 150px 300px 0 0;
 }
 
 .well {
@@ -58,4 +58,18 @@ u {
 .sidebar {
   height: 100px;
   width: 600px;
+}
+
+.navbar-nav > li{
+  margin-left:30px;
+  margin-right:30px;
+  padding-left:30px;
+  padding-right:30px;
+}
+
+.navbar-brand {
+  margin-left:50px;
+  margin-right: 30px;
+  padding-left:50px;
+  padding-right: 30px;
 }
