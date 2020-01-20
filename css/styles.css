@@ -73,3 +73,21 @@ u {
   padding-left:50px;
   padding-right: 30px;
 }
+
+span {
+font-size: medium;
+text-align: right;
+display:block;float:right;
+}
+
+.college {
+  font-size: 20px;
+  font-style: italic;
+}
+.work {
+  font-style: italic;
+}
+
+.title {
+  font-weight: bold;
+}

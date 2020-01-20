@@ -1,6 +1,8 @@
-## My First Project
+# _Personal Portfolio Webpage_
 
-### *By Hristo Dzhambov*  
+#### _By visitng my personal portfolio webpage you can learn more about me, my projects,eperience, skills, hobbies and anything else that I am excited about at the moment._ 
+
+#### *By Hristo Dzhambov*  
 
 ## Description  
 
@@ -12,7 +14,7 @@
 
 ## Known Bugs
 
-*There are no known bugs thus far.*
+*There are no known bugs thus far. But some pages are not quite finished yet.*
 
 ## Support and Contact Details
 
@@ -21,7 +23,7 @@
 
 ## Technology Used
 
-*To create this webpage I used HTML, CSS and Bootstrap.*
+*To create this webpage I used HTML, CSS, Bootstrap and GitHub.*
 
 ## License
 
