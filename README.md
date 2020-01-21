@@ -19,7 +19,7 @@
 ## Support and Contact Details
 
 *Please feel free to contact me if you encounter any problems with this webpage at dzhambov@hotmail.com.*
-> *You can also see it visiting the folowing [link](https://github.com/dzhambov/new-portfolio/tree/gh-pages).*
+> *You can also see it visiting the folowing [link](https://dzhambov.github.io/new-portfolio).*
 
 ## Technology Used
 
